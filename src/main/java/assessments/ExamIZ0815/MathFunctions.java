@@ -2,7 +2,7 @@ package assessments.ExamIZ0815;
 
 public class MathFunctions {
     /**
-     * What is the result of the following program?
+     * 1. What is the result of the following program?
      * @param args
      */
     public static void main(String[] args) {

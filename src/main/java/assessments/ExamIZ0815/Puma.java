@@ -3,7 +3,7 @@ package assessments.ExamIZ0815;
 
 public class Puma {
 /**
- * What is the output of the following program? (Choose all that apply)
+ * 2. What is the output of the following program? (Choose all that apply)
  *
  * interface HasTail {
  *     int getTailLength();
